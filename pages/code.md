@@ -11,6 +11,6 @@ Here are some of my contributions to the programming community
 
 [Github](https://github.com/consolemaverick)
 
-[RubyGems](https://rubygems.org/profiles/maverick9000)
+[RubyGems](https://rubygems.org/profiles/consolemaverick)
 
 [Ansible Galaxy](https://galaxy.ansible.com/maverick9000)
