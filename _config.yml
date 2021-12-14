@@ -16,8 +16,6 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Subscribe
-    url: /subscribe
   - title: Contact
     url: /contact
   - title: Open Source
