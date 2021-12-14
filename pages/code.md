@@ -9,7 +9,7 @@ permalink: /code/
 
 Here are some of my contributions to the programming community
 
-[Github](https://github.com/maverick9000)
+[Github](https://github.com/consolemaverick)
 
 [RubyGems](https://rubygems.org/profiles/maverick9000)
 

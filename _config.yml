@@ -33,14 +33,14 @@ external_menu:
   - title: 哔哩哔哩bilibili
     url: https://space.bilibili.com/591877275
   - title: Presentations
-    url: https://speakerdeck.com/maverick9000
+    url: https://speakerdeck.com/consolemaverick
   - title: Ansible Course
     url: https://www.udemy.com/course/ansible-master-course/
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: maverick9000
-twitter_username: maverick5000
+github_username: consolemaverick
+twitter_username: consolemaverick
 linkedin_username: maverick-stoklosa
 
 
@@ -53,7 +53,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maverick9000.github.io" # the base hostname & protocol for your site
+url: "https://consolemaverick.github.io" # the base hostname & protocol for your site
 google_analytics: ""
 language: "en"
 categories_folder: category
