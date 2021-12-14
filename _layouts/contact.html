@@ -2,7 +2,6 @@
 layout: page
 ---
 
-{% if site.email %}
 <style type="text/css" media="screen">
   .container {
     margin: 0px auto;
@@ -14,7 +13,7 @@ layout: page
   <h2>{{ site.translations.contact.title | default: "Send me a message" }}</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/mrgjgyzd" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
@@ -84,9 +83,3 @@ new Vue({
   }
 });
 </script>
-
-{% else %}
-
-<script>window.location = "{% if site.url == '' and site.baseurl == '' %}/{% else %}{{ site.url }}{{ site.baseurl }}{% endif %}";</script>
-
-{% endif %}
