@@ -1,7 +1,7 @@
 ---
 title: "Fixing ERROR: toomanyrequests: Too Many Requests. in your Gitlab Continuous Integration Jobs"
 layout: post
-subtitle: Fix Gitlab pipelines  
+subtitle: Fix Gitlab pipelines
 description: "Fixing ERROR: toomanyrequests: Too Many Requests. in your Gitlab Continuous Integration Jobs"
 image: /assets/img/uploads/toomanyrequests.jpg
 date: '2021-01-07 07:28:05 +0900'
@@ -20,11 +20,11 @@ You may have seen errors like these in your Gitlab CI
 ERROR: toomanyrequests: Too Many Requests.
 ```
 
-This is because starting November 2, 2020 Docker has introduced a 250 request per 6 hours rate limits for free accounts. 
+This is because starting November 2, 2020 Docker has introduced a 250 request per 6 hours rate limits for free accounts.
 
 So now you have a team full of people waiting for their jobs to finish in Gitlab so they can deploy to production. How do we get out of this mess?
 
-The cheapest way is to purchase a Pro account https://www.docker.com/pricing 
+The cheapest way is to purchase a Pro account https://www.docker.com/pricing
 
 ![toomanyrequests2](/assets/img/uploads/toomanyrequests2.png))
 
@@ -55,7 +55,7 @@ file with something like this in it
 }
 ```
 
-You will need the first `auths` part which you will transform into a DOCKER_AUTH_CONFIG variable to be used inside your 
+You will need the first `auths` part which you will transform into a DOCKER_AUTH_CONFIG variable to be used inside your
 
 ```
 /etc/gitlab-runner/config.toml
@@ -67,7 +67,7 @@ file. That looks like this:
 environment = ["DOCKER_AUTH_CONFIG={\"auths\":{\"index.docker.io/v1/\":{\"auth\":\"sHh6ARbxJGDwU4d2V\"}}}"]
 ```
 
-Next you configure your gitlab-runners. For each runner append the 
+Next you configure your gitlab-runners. For each runner append the
 
 ```
 environment = ["DOCKER_AUTH_CONFIG={\"auths\":{\"index.docker.io/v1/\":{\"auth\":\"sHh6ARbxJGDwU4d2V\"}}}"]
