@@ -39,6 +39,7 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "lodash.template": "^4.5.0"
+    "lodash.template": "^4.5.0",
+    "semver-regex": "^3.1.3"
   }
 }
