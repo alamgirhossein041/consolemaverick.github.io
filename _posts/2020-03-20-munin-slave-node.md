@@ -12,7 +12,7 @@ tags:
   - monitoring
   - coronavirus
   - lockdown
-author: Maverick
+author: Pawel
 ---
 
 Munin is old school but it works so I keep installing it. Or maybe I'm old and I think of Prometheus the same way old people think of rap music 🙊  Regardless let's install munin in a master / slave configuration.

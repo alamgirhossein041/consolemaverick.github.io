@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - security
   - linux
-author: Maverick
+author: Pawel
 ---
 
 ## Disable root ssh access

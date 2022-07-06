@@ -11,7 +11,7 @@ tags:
   - hardware
   - keyboard
   - ergonomics
-author: Maverick
+author: Pawel
 ---
 
 ## Must haves

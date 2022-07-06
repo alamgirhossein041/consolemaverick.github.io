@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - fundementals
   - extreme programming
-author: Maverick
+author: Pawel
 ---
 
 I never had the chance to practice in RL but I heard about it in books like [Extreme Programming Explained](https://amzn.to/2SbzOVe)

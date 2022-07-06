@@ -9,7 +9,7 @@ optimized_image: /assets/img/uploads/pager.jpg
 category: devops
 tags:
   - cronjob
-author: Maverick
+author: Pawel
 ---
 
 If your email is filled with noise you have to filter for the signal manually. Why not quiet down your cronjobs so they only notify you when they fail instead of acting like the teacher's pet.

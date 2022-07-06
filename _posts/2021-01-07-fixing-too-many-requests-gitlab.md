@@ -11,7 +11,7 @@ tags:
   - ansible
   - linux
   - book
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 You may have seen errors like these in your Gitlab CI

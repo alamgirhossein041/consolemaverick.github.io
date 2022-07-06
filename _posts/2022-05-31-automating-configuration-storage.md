@@ -11,7 +11,7 @@ tags:
   - Gitlab
   - Ruby
   - Ansible
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 Storing server configuration inside of Git requires multiple steps. In order to optimize the process let’s automate as much of it as possible.

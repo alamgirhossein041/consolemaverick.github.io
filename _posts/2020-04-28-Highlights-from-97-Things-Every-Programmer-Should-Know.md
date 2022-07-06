@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - fundementals
   - book
-author: Maverick
+author: Pawel
 ---
 
 Here are some things that stuck out reading [97 Things Every Programmer Should Know](https://amzn.to/3eYTLrS)

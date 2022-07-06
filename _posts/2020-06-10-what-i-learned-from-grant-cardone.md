@@ -11,7 +11,7 @@ tags:
   - company
   - money
   - management
-author: Maverick
+author: Pawel
 ---
 
 Highlights from [The 10X Rule](https://amzn.to/3b6jpbi) by Grant Cardone

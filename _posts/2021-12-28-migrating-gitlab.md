@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - linux
   - gitlab
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 Out of the box the export feature will result in all issues being owned by the importing user so if you import like so

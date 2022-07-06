@@ -11,7 +11,7 @@ tags:
   - gtd
   - organization
   - management
-author: Maverick
+author: Pawel
 ---
 
 [Getting Things Done](https://amzn.to/2SsQyaF) by David Allen

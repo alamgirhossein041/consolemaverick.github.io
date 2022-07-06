@@ -1,8 +1,8 @@
 # Site Settings
-name: Maverick Stoklosa
-title: Maverick Stoklosa
+name: Pawel Stoklosa
+title: Pawel Stoklosa
 email: consolemaverick@gmail.com
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 description: Ansible, Command Line, Devops
 tags:
   - ansible
@@ -39,7 +39,7 @@ external_menu:
 # Remove the item if you don't need it
 github_username: consolemaverick
 twitter_username: consolemaverick
-linkedin_username: maverick-stoklosa
+linkedin_username: pawel-stoklosa
 
 
 # Posts Settings

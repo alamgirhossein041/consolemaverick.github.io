@@ -12,7 +12,7 @@ tags:
   - coincheck
   - trillionaire
   - bitcoin
-author: Maverick
+author: Pawel
 ---
 
 If you want to be in the 3 commas club you have to dabble in crypto. If you want to be a bitcoin trillionaire you have to know how your portfolio is standing on a daily basis at the minimum. You could use a service for this but because you're paranoid and stored all your crypto in paper wallets you have to find another way. 

@@ -11,7 +11,7 @@ tags:
   - linux
   - postgresql
   - database
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 Are you still running applications on PostgreSQL 10? I know me too. All the kids on TikTok are using PostgreSQL 13 now so get with the times dad.

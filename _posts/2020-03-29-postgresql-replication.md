@@ -11,7 +11,7 @@ tags:
   - postgresql
   - database
   - replication
-author: Maverick
+author: Pawel
 ---
 
 You created a project and it's marginally successful. Now you have so much traffic that your database can't handle the load. You need to scale. 

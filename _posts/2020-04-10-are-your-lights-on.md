@@ -11,7 +11,7 @@ tags:
   - user experience
   - design
   - fundementals
-author: Maverick
+author: Pawel
 ---
 
 Here are some notes from [Are Your Lights On?](https://amzn.to/359NkxI)

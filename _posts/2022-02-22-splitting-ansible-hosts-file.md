@@ -9,7 +9,7 @@ optimized_image: /assets/img/uploads/ansible.png
 category: fundementals
 tags:
   - ansible
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 Instead of having a single monolithic ansible hosts file you can split them up by client.

@@ -11,7 +11,7 @@ tags:
   - company
   - money
   - management
-author: Maverick
+author: Pawel
 ---
 
 I recently read [Principles](https://amzn.to/2YozrKC) by Ray Dalio

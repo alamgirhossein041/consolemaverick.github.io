@@ -11,7 +11,7 @@ tags:
   - nginx
   - geoip
   - geolocation
-author: Maverick
+author: Pawel
 ---
 
 If you want to know where your users are coming from based on their IP you need Geoip compiled into Nginx. The apt version of Nginx won't help you here you have to compile from source.

@@ -13,7 +13,7 @@ tags:
   - ror
   - ruby
   - rails
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 After upgrading to Ubuntu 20.04 you may have noticed a few errors in your Ruby on Rails application. They aren't obvious. At first everything seems to be working fine. Your `monit` is reporting all services up but you're unable to connect to console. When you try to run it it complains about the lack of libreadline7.

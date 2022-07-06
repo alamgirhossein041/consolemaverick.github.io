@@ -11,7 +11,7 @@ tags:
   - linux
   - start-stop-daemon
   - shell
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 If you are faced with an application that experiences long running queries and are unable to terminate it via your monitoring tool here is what you do.

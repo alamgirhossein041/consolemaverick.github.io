@@ -11,7 +11,7 @@ tags:
   - company
   - management
   - relationships
-author: Maverick
+author: Pawel
 ---
 
 A good way to improve relationships at work is to foster informal conversation between coworkers. If your company is spread out across multiple offices you may never had the opportunity to talk to some people aside from email and Slack. Despite digital advances humans still require face-to-face contact. One way out of this mess is to regularly host informal 30m conversations between 4-5 members of your team.

@@ -12,7 +12,7 @@ tags:
   - gcp
   - sendgrid
   - postfix
-author: Maverick
+author: Pawel
 ---
 
 Google Cloud Platform is pretty swanky but it has one drawback. Email port 25 is blocked by default hence your

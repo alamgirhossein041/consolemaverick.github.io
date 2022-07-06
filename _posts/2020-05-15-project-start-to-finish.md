@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - project
   - management
-author: Maverick
+author: Pawel
 ---
 
 Here is a typical project workflow template you can use from project start to the application being retired.

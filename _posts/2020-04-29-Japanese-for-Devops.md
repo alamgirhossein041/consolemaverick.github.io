@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - fundementals
   - japanese
-author: Maverick
+author: Pawel
 ---
 
 I am currently in the land of Sushi so I often need to talk to girls about linux and my mechanical keyboard. 

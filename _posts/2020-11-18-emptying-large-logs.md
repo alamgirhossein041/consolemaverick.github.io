@@ -9,7 +9,7 @@ optimized_image: /assets/img/uploads/large_files.jpg
 category: fundementals
 tags:
   - linux
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 Say you're on your Ubuntu instance and you do

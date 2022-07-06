@@ -9,7 +9,7 @@ optimized_image: /assets/img/uploads/replication.jpg
 category: fundementals
 tags:
   - postgresql
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 If you’re running a mix of different PosgreSQL versions then logical replication is the way to go. It allows you to run a publisher that V13 and a subscriber that’s V12 for example. This is useful if you’re upgrading the Publisher. If you have multiple subscribers there is a point in time where the version will be out of sync. In order to keep replication going during this process use logical replication.

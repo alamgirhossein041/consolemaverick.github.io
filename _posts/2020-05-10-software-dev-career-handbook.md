@@ -11,7 +11,7 @@ tags:
   - company
   - money
   - career
-author: Maverick
+author: Pawel
 ---
 
 Notes from [Being Geek: The Software Developer's Career Handbook](https://amzn.to/2VThySy) taken straight out of the book. Sometimes they are partial sentences but they are ideas I thought were worth saving.

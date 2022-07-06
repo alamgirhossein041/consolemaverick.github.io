@@ -13,7 +13,7 @@ tags:
   - scrum
   - kanban
   - scrumban
-author: Maverick
+author: Pawel
 ---
 
 Oh man 'Lord of the Flies' I still have nightmares about passing the conch.

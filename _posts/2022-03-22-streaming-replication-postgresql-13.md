@@ -10,7 +10,7 @@ category: fundementals
 tags:
   - postgresql
   - replication
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 Things have changed in PostgreSQL 13\. If you’re used to replication PostgreSQL instances prior to 13 you will see that the setup is cleaner now. It’s also easier to start the replication process by creating the base backup. Let’s go through the important bits:

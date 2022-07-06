@@ -11,7 +11,7 @@ tags:
   - fundementals
   - book
   - agile
-author: Maverick
+author: Pawel
 ---
 
 [Allen Holub](https://holub.com/) is an Agile coach. He wrote [Holub on Patterns](https://amzn.to/2yPgiHf)

@@ -12,7 +12,7 @@ tags:
   - git
   - server
   - configuration
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 The same way you version control your code you can version control the configuration files on the server. There are 3 kinds of things you want to keep track of on a server

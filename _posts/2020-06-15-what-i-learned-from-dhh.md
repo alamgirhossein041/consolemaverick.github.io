@@ -12,7 +12,7 @@ tags:
   - rails
   - startup
   - company
-author: Maverick
+author: Pawel
 ---
 
 After reading a few articles and DHH's book [Rework](https://amzn.to/35rtSws) as well as [It Doesn't Have to Be Crazy at Work](https://amzn.to/2KVOLGX) and [Remote: Office Not Required](https://amzn.to/2SvmURO) I had some thoughts.

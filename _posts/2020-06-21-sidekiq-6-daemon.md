@@ -12,7 +12,7 @@ tags:
   - daemon
   - linux
   - background jobs
-author: Maverick
+author: Pawel
 ---
 
 You may have noticed after upgrading to Sidekiq 6 that your background jobs no longer run.

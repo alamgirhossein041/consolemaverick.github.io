@@ -11,7 +11,7 @@ tags:
   - company
   - money
   - management
-author: Maverick
+author: Pawel
 ---
 
 I've been following [Jonathan Stark](https://jonathanstark.com/) for a while and learned a few things from him

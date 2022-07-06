@@ -10,7 +10,7 @@ category: postgresql
 tags:
   - postgresql
   - backup
-author: Maverick
+author: Pawel
 ---
 
 Do you have a replicated PostgreSQL instance being used solely for the purpose of backing up your main database server? Did you think all your problems would be solved with the additional server but when sitting down to have your whiskey and morning cigarette you discovered:

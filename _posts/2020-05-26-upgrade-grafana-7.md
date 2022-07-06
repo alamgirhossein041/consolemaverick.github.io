@@ -11,7 +11,7 @@ tags:
   - monitoring
   - grafana
   - linux
-author: Maverick
+author: Pawel
 ---
 
 Grafana 7 is out and you want to upgrade. Reading through the Changelog it seems nothing could go wrong but it will.

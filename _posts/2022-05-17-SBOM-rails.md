@@ -11,7 +11,7 @@ tags:
   - SBOM
   - Gitlab
   - CI
-author: Maverick Stoklosa
+author: Pawel Stoklosa
 ---
 
 Start by installing the [CycloneDX Ruby Gem](https://github.com/CycloneDX/cyclonedx-ruby-gem) which will generate the Software Bill of Materials for you.
